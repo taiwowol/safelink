@@ -25,15 +25,3 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-
-In/a
-L0
-LD
-I20
-Rank24.2K
-Age2014|09|09
-l0
-+1n/a
-whois
-source
-Summary reportDiagnosisDensity00n/a
